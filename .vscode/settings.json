@@ -9,4 +9,7 @@
   },
   "js/ts.implicitProjectConfig.checkJs": true,
   "typescript.inlayHints.parameterNames.enabled": "all",
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
 }
